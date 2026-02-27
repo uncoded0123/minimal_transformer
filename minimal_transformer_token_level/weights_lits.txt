@@ -1,0 +1,5 @@
+weights_config2.pt config:
+dim = 512
+n_layers = 6
+mlp_dim = 1024
+ctx_len = 128
